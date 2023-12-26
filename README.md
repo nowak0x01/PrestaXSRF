@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#about">About</a>  -
   <a href="#key-features">Key Features</a>  -
-  <a href="#install">Install</a>  -
+  <a href="#installation">Installation</a>  -
   <a href="#examples">Examples</a>  -
   <a href="#contributing">Contributing</a>
 </p>
@@ -28,9 +28,8 @@ _**PrestaXSRF**_ is a script designed to escalate a **Cross-Site Scripting (XSS)
 * _**// Pending**_
   - more ways to get RCE
   
-## Install
 
-<br>
+## Installation
 
 **1\) Clone the Repository**
 ```bash
